@@ -1,7 +1,7 @@
 # hello-world
 
 Hallo, ik ben Rik en ben en 21 jaar oud, ik woon op mijzelf in dwingeloo.<br>
-Ik werk als afwasser bij een hotel/rerstaurant, bij hotel wesseling werk ik.<br>
+Ik werk als afwasser bij een hotel/restaurant, bij hotel wesseling werk ik.<br>
 Ik heb geen hobby's.<br><br>
 
 
